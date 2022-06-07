@@ -14,16 +14,14 @@ import java.io.IOException;
 
 public class HelloController {
 
-
+    //Here I am creating my first function for the button one.
     @FXML
     public void OnClickedButton1(ActionEvent actionEvent) throws IOException{
+    }
 
-
-
-        }
+    //Here I am creating my second function for the button two.
     @FXML
     public void OnClickedButton2(ActionEvent actionEvent) throws IOException{
-
-
     }
+
 }
