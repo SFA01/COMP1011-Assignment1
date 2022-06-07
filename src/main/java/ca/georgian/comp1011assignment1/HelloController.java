@@ -15,6 +15,15 @@ import java.io.IOException;
 public class HelloController {
 
 
-    public void OnClickedButton1(ActionEvent actionEvent) {
+    @FXML
+    public void OnClickedButton1(ActionEvent actionEvent) throws IOException{
+
+
+
+        }
+    @FXML
+    public void OnClickedButton2(ActionEvent actionEvent) throws IOException{
+
+
     }
 }
